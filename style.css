@@ -47,13 +47,6 @@ ul li.active a{
     color: #000;
 }
 
-.logo img{
-    float: left;
-    margin: 10px;
-    width: 150px;
-    height: auto;
-}
-
 .main{
     max-width: 1200px;
     margin: auto;
