@@ -11,9 +11,9 @@ header{
     background-position: center;
 }
 
-header div.logo{
+header .main div.logo{
     display: inline-block;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: bold;
     margin-top: 10px;
 }
