@@ -11,6 +11,12 @@ header{
     background-position: center;
 }
 
+header .logo{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
 ul{
     float: right;
     list-style-type: none;
